@@ -3,7 +3,7 @@
 ![Linux](https://img.shields.io/badge/Linux-Estudos-e5e5e5?style=flat&logo=linux&logoColor=black)
 ![Redes](https://img.shields.io/badge/Redes-Estudos-2563eb?style=flat)
 ![Infraestrutura](https://img.shields.io/badge/Infraestrutura-Laboratório-6366f1?style=flat)
-![Segurança](https://img.shields.io/badge/Segurança da Informação-Em aprendizado-7c3aed?style=flat)
+![Segurança](https://img.shields.io/badge/Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o-Em%20aprendizado-7c3aed?style=flat)
 ![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-blue?style=flat)
 
 ## 📌 Sobre o projeto
